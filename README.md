@@ -2,7 +2,7 @@
 Python-based Instagram bot to give you a complete list of all usernames that you follow that don't follow you back.
 
 Dependencies:
-1. Selenium (execute script "pip3 install selenium" in working directory
+1. Selenium (run command "pip3 install selenium" in working directory)
 2. Selenium webdriver for Google Chrome (Download from https://chromedriver.chromium.org/downloads, make sure the chromedriver version supports your version of Chrome)
 
 Using The Bot:
